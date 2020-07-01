@@ -1,0 +1,29 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+
+*{
+    padding:0;
+    margin:0;
+    border:0;
+    overflow: hidden;
+}
+
+h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform:translate(-50%);
+    font-family: 'Roboto', sans-serif;
+    font-size: 3vw;
+    color: #fff;
+}
+
+.canvas{
+    position: absolute;
+}
+
+@media only screen and (min-width:800){
+    h1{
+        font-size: 8vw;
+    }
+}
