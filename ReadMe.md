@@ -3,7 +3,7 @@
 
 Black + White | MultiColor | Blue + Yellow
 ------------ | ------------- | ------------- 
-![Black/White](/gifs/1.gif) | ![multicolor](/gifs/2.gif) | ![Blue/Yellow](/gifs/3.gif)
+![Black/White](/gifs/1-min.gif) | ![multicolor](/gifs/2-min.gif) | ![Blue/Yellow](/gifs/3-min.gif)
 
 ### Fragment Shader & Vertex Shader
 > Fragment Shader from Lewis Lepton Shader Series [Shader](https://www.youtube.com/watch?v=aW_GW5uwWRM)
