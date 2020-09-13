@@ -3,7 +3,7 @@
 
 Black + White | MultiColor | Blue + Yellow
 ------------ | ------------- | ------------- 
-![Black/White](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025943/githubImages/1-min_pvkt7a.gif) | ![multicolor](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025946/githubImages/2-min_g578qn.gif) | ![Blue/Yellow](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025945/githubImages/3-min_u4oipe.gif)
+![Black/White](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025943/githubImages/1-min_pvkt7a.gif) | ![multicolor](https://res.cloudinary.com/vaishakhanil/image/upload/v1600026907/githubImages/2-min_1_ivbcb0.webp) | ![Blue/Yellow](https://res.cloudinary.com/vaishakhanil/image/upload/v1600025945/githubImages/3-min_u4oipe.gif)
 
 ### Fragment Shader & Vertex Shader
 > Fragment Shader from Lewis Lepton Shader Series [Shader](https://www.youtube.com/watch?v=aW_GW5uwWRM)
